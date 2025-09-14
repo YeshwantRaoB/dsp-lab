@@ -1058,7 +1058,7 @@ function ProgramViewer() {
         top: 0, // Stick to top
         zIndex: 1000, // Ensure it stays above other content
       }}>
-        <h1 style={{ fontSize: '1 rem', fontWeight: 'normal' }}>COMPUTER SCIENCE AND ENGINEERING</h1>
+        <h1 style={{ fontSize: '1 rem', fontWeight: 'normal' }}>Designed and Developed by Shankar</h1>
         <h2 style={{ fontSize: '0.700 rem', fontWeight: 'normal' }}>Data Structures with Python Lab Manual</h2>
       </header>
 
@@ -1556,7 +1556,7 @@ Index 4: Empty
         </main>
       </div>
       <footer style={{ backgroundColor: 'black', color: 'white', padding: '1rem', textAlign: 'center' }}>
-        <p>&#169; 2024 Computer Science and Engineering Department. All rights reserved.</p>
+        <p>&#169; 2025 Karnataka (Govt.) Polytechnic Mangalore. All rights reserved.</p>
       </footer>
     </div>
   );
